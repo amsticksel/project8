@@ -1,5 +1,5 @@
 # Project Title
-Adoptable Pets
+Last Week In Dogs
 
 ## Team Members
 Jimmy Heinz III, Tom Veeder, Anne Marie Sticksel, Sineekarn Watcharawikran
